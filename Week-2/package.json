@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2#readme",
     "dependencies": {
+        "expres": "^0.0.5",
         "express": "^4.19.2"
     }
 }
