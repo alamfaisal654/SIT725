@@ -2,7 +2,7 @@ let express = require('express');
 let app = express();
 const { MongoClient, ServerApiVersion } = require('mongodb');
 // const uri = "mongodb://localhost:27017";
-const uri = "mongodb+srv://faisalalam:w7dwNuoISsPyESk8@cluster0.gngbcep.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+ const uri = "mongodb+srv://sanjaygurun155:PycKuH15bxaVyZVD@cluster0.u66wn0h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 let port = process.env.port || 3000;
 let collection;
 
